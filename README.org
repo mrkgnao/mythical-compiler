@@ -6,4 +6,5 @@ http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.27.3918&rep=rep1&type=p
 
 https://www.cl.cam.ac.uk/~nk480/dlnl-paper.pdf
 
+http://www.stephendiehl.com/posts/essential_compilers.html
 
